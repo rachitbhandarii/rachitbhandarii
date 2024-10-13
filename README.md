@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachitbhandarii
 - 👀 I’m interested in AI/ML/DL and competitive programming.
 - 🌱 I’m currently learning supervised learning techniques in depth.
-- 💞️ I’m looking to collaborate on discovering space using neural networks.
+- 💞️ I’m looking to collaborate on discovering new stats on deep space using neural networks.
 - 📫 Ping me on @rachit23413@iiitd.ac.in 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the one who neither hates cp nor dev :)
